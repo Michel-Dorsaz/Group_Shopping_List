@@ -1,0 +1,44 @@
+{
+  "name": "group_shopping_list",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "~1.15.0",
+    "@react-native-firebase/storage": "^14.5.1",
+    "@react-navigation/native": "^6.0.8",
+    "@react-navigation/native-stack": "^6.5.0",
+    "anymatch": "^3.1.2",
+    "expo": "~44.0.0",
+    "expo-image-picker": "~12.0.1",
+    "expo-location": "~14.0.1",
+    "expo-status-bar": "~1.2.0",
+    "firebase": "^9.6.9",
+    "google-translate-api": "^2.3.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "0.64.3",
+    "react-native-async-storage": "^0.0.1",
+    "react-native-elements": "^3.4.2",
+    "react-native-fs": "^2.19.0",
+    "react-native-google-image-search": "^0.1.0",
+    "react-native-image-picker": "^4.7.3",
+    "react-native-maps": "0.29.4",
+    "react-native-safe-area-context": "3.3.2",
+    "react-native-screens": "~3.10.1",
+    "react-native-vector-icons": "^9.1.0",
+    "react-native-web": "0.17.1",
+    "require": "^2.4.20",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}
